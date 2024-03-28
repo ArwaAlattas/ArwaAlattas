@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- I'm App developer skilled in iOS and Android platforms with a growing interest in web Apps development. Passionate about leveraging expertise in both mobile and web technologies to create innovative solutions
 <!--
 **ArwaAlattas/ArwaAlattas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
